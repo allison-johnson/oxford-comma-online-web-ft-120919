@@ -1,3 +1,5 @@
 def oxford_comma(array)
-
-end
+  i = 0 
+  new_string = ""
+  while i <= 
+end 
